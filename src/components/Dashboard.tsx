@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -13,7 +12,8 @@ import {
   Clock,
   CheckCircle,
   AlertTriangle,
-  Calendar
+  Calendar,
+  BarChart3
 } from 'lucide-react';
 import { Progress } from '@/components/ui/progress';
 
