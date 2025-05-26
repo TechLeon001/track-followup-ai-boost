@@ -23,7 +23,7 @@ const Navigation = () => {
               <Activity className="h-6 w-6" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">247 TRACK</h1>
+              <h1 className="text-xl font-bold text-gray-900">Afya bora</h1>
               <p className="text-xs text-gray-500">Healthcare Follow-up Platform</p>
             </div>
           </div>
